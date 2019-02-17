@@ -277,7 +277,7 @@ controlButtons: {
 }
 ```
 
-`webrtc`: Indica se o link do vídeo é um webrtc.
+`webrtc`: Indica se o link do vídeo é um live webrtc.
 
 Uso:
 
